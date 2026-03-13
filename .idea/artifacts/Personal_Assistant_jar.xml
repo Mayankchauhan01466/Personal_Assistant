@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Personal_Assistant:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Personal_Assistant_jar</output-path>
+    <root id="archive" name="Personal_Assistant.jar">
+      <element id="module-output" name="Personal_Assistant" />
+      <element id="extracted-dir" path="$USER_HOME$/java-libs/commons-math3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

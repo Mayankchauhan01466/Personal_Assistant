@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="sphinx4-core">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/java-libs/sphinx4-core.jar!/" />
+      <root url="jar://$USER_HOME$/java-libs/sphinx4-core.jar!/" />
+      <root url="jar://$USER_HOME$/java-libs/sphinx4-data.jar!/" />
+      <root url="jar://$USER_HOME$/java-libs/sphinx4-core.jar!/" />
+      <root url="jar://$USER_HOME$/java-libs/sphinx4-core.jar!/" />
+      <root url="jar://$USER_HOME$/java-libs/commons-math3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$USER_HOME$/java-libs/sphinx4-core.jar!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/java-libs/sphinx4-core.jar!/" recursive="false" />
+  </library>
+</component>
